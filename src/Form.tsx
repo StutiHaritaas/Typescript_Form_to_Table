@@ -1,7 +1,4 @@
-// function Form(){
 
-// }
-// export default Form
 import React from "react";
 
 type FormItem={
